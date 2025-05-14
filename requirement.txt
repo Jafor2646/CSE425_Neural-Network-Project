@@ -1,0 +1,10 @@
+fsspec
+huggingface_hub
+sentence-transformers
+scikit-learn
+matplotlib
+numpy
+pandas
+tensorflow
+transformers
+datasets
